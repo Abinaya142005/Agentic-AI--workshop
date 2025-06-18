@@ -1,7 +1,3 @@
-Here’s a professional, informative `README.md` content for your **Fundraising Readiness Evaluator** project, ready to be uploaded to GitHub:
-
----
-
 # 🚀 Fundraising Readiness Evaluator (Multi-Agent AI System)
 
 A multi-agent intelligent evaluator built with LangChain, Google Gemini, FAISS, and Streamlit. It helps early-stage startups assess their readiness for fundraising and receive structured, personalized feedback — powered by RAG (Retrieval-Augmented Generation).
